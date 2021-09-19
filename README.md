@@ -1,24 +1,7 @@
-# recipes
+Рецепты на каждый день
 
-## Project setup
-```
-npm install
-```
+Здесь можно добавлять рецепты и не боятся их потерять
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Оставить отзыв
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Писать комментарии
